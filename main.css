@@ -1,0 +1,36 @@
+.site-header{
+    background-color:#29a35f;
+    color:#edf4ed;
+    height:100vh;
+    font-family:monospace;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-header-content{
+    margin:15px;
+}
+
+.pic{
+    border-radius:50%;
+    height:200px;
+    width:200px;
+    align-self: center;
+    box-shadow:black 2px 5px 5px;
+}
+
+.linkk{
+    color:#edf4ed;
+    text-decoration-line: none;
+}
+.linkk:hover{
+    color:blue;
+    background-color: yellow;
+}
+
+
+body{
+    margin:0;
+}
